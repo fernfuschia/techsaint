@@ -1,0 +1,27 @@
+h1 {
+	font-size: 18vw;
+	font-family: avenir next;
+	padding: 10px 10px 0px 10px;
+}
+h2 {
+	align-self: center;
+	font-family: montserrat;
+	font-size: 1.8vw;
+	
+}
+h4 {
+	font-family:satisfy;
+	margin-top: -50;
+}
+.fa-arrow-circle-down {
+	color:#ca2d09;
+	border-width: 1px;
+}
+
+.introduction {
+	min-height: 500px;
+	background-color:#e5d8d8;
+	padding: 0px 50px 0px 50px;
+	font-size: 3vw;
+	font-family: lato;
+}
